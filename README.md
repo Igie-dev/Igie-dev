@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi there 👋<br><br>✨ Creating bugs since 2015<br><br>📚 I'm currently learning ...<br>- Advanced Next.js features<br>- Cloud-native backend architectures<br>- Mobile app optimizations with React Native<br><br>🎯 Goals:<br>- Become a tech lead in a full-stack role<br>- Contribute to open-source projects regularly<br>- Build and launch my own SaaS product<br><br>🎲 Fun fact:<br>- I once accidentally deleted a production database but learned a lot from it!</p>
+<p align="left">Hi there 👋<br><br>✨ Creating bugs since 2015<br><br>📚 I'm currently learning ...<br>- Advanced Next.js features<br>- Cloud-native backend architectures<br>- Mobile app optimizations with React Native<br><br>🎯 Goals:<br>- Become a tech lead in a full-stack role<br>- Contribute to open-source projects regularly<br>- Build and launch my own SaaS product<br><br>🎲 Fun fact:<br>- </p>
 
 ###
 
